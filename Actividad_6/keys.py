@@ -1,0 +1,1 @@
+OWM_key = "8e57c188cfccdd001c69d0b3c7e48e78"
